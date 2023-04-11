@@ -3,7 +3,6 @@ from colorama import Fore as f
 from pyfiglet import figlet_format as fig 
 from datetime import datetime 
 import requests
-import host1let
 from sys import argv
 
 system("cls")
