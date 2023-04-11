@@ -1,6 +1,5 @@
 from os import system
 from colorama import Fore as f 
-from pyfiglet import figlet_format as fig 
 from datetime import datetime 
 import requests
 from sys import argv
